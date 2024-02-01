@@ -112,6 +112,7 @@
             "SqlSummary",
             "CPMember",
             "List_CPMember",
+            "List_RaftGroupId",
             "MigrationState",
             "FieldDescriptor",
             "List_FieldDescriptor",

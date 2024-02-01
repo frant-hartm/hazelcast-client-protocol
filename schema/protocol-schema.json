@@ -111,6 +111,7 @@
             "SqlSummary",
             "CPMember",
             "List_CPMember",
+            "List_RaftGroupId",
             "MigrationState",
             "Schema",
             "List_Schema",

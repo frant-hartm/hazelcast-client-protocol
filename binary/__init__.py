@@ -131,7 +131,8 @@ VarSizedListTypes = [
     'List_MCEvent',
     'List_SqlColumnMetadata',
     'List_JobAndSqlSummary',
-    'List_CPMember'
+    'List_CPMember',
+    'List_RaftGroupId',
     'ListCN_Data',
     'List_List_Data',
     'List_FieldDescriptor',
